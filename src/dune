@@ -1,7 +1,4 @@
 (library
  (public_name varint)
  (name varint)
- (libraries cstruct stdint)
-)
-
-
+ (libraries core_kernel stdint))
